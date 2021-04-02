@@ -7,7 +7,7 @@ import { AppService } from './app.service';
   styleUrls: ['./app.component.scss'],
 })
 export class AppComponent implements OnInit {
-  title = 'learn-jest-testing';
+  title = 'learn-jest-testing-';
 
   constructor(private appService: AppService) {}
 
